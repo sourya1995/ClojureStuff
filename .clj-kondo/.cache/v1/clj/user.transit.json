@@ -1,1 +1,1 @@
-["^ ","~$x",["^ ","~:row",1,"~:col",1,"~:name","~$x","~:ns","~$user","~:top-ns",null,"~:type","~:pos-int"],"~:filename","C:\\Users\\johnw\\OneDrive\\Desktop\\ClojureStuff\\Basics.clj"]
+["^ ","~$greet",["^ ","~:row",1,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$user","~:top-ns",null,"~:arities",["^ ","~i1",["^ ","~:ret","~:string","~:arglist-str","[name]"]],"~:type","~:fn"],"~:filename","C:\\Users\\johnw\\OneDrive\\Desktop\\ClojureStuff\\FirstFunction.clj"]
